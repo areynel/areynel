@@ -1,6 +1,7 @@
 # Reinel Aristizabal Erazo 👋
 ## Ingeniero informático 
 #### Con una amplia Experiencia en Programación de Turnos de Operadores de BUS.
+#### Actualmente BootCamp Guillermo Rodas.
 
 Soy una persona comprometida, responsable y **QUE APRENDE RAPIDO**. Siempre preparado para afrontar y **DISEÑAR PROCESOS** de ingeniería de software requeridos para la optimización de las **OPERACIONES** de empresas de base  tecnológica.
 
