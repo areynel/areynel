@@ -1,6 +1,6 @@
 # Reinel Aristizabal Erazo 👋
 ## Ingeniero informático 
-#### Con una amplia Experiencia en Programación de Turnos de Operadores de BUS.
+## Con una amplia Experiencia en Programación de Turnos de Operadores de BUS.
 
 # Actualmente BootCamp Guillermo Rodas.
 ## Ejercicio Uno: Diferencia entre.
