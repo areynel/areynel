@@ -1,12 +1,10 @@
 # Reinel Aristizabal Erazo 👋
-## Ingeniero informático 
+## Ingeniero informático 🇨🇴
 #### Con una amplia Experiencia en Programación de Turnos de Operadores de BUS.
 
 # Actualmente BootCamp Guillermo Rodas.
 ## Ejercicio Uno: Diferencia entre.
-## Terminal Application - Terminal Emulator 
-![terminal](https://user-images.githubusercontent.com/117833903/223739870-fe712854-6d07-497f-9a3e-5ecff0e3f356.png)
-
+## Terminal Application - Terminal Emulator 💾 
 
 **Un emulador de terminal o de consola** es un programa que simula el funcionamiento de un terminal de computadora en cualquier dispositivo de visualización. Un emulador de terminal dentro de una interfaz gráfica de usuario es comúnmente conocida como una ventana de terminal.
 
