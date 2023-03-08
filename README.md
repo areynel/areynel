@@ -1,5 +1,5 @@
 # Reinel Aristizabal Erazo 👋
-## Ingeniero informático 🇨🇴
+## Ingeniero informático 
 #### Con una amplia Experiencia en Programación de Turnos de Operadores de BUS.
 
 # Actualmente BootCamp Guillermo Rodas.
@@ -12,7 +12,7 @@ Los emuladores de terminal incorporan características como control de procesos,
 
 Al ingresar las órdenes en el emulador, un intérprete de comandos analiza la secuencia de caracteres ingresada y, si la sintaxis de la orden es correcta, la ejecuta, recurriendo para ello a las funciones que ofrece el sistema operativo o el programa que representa, bien sea un gestor de banco de datos, una sesión de FTP, etc. La respuesta al usuario se representa en el monitor; es una forma de trabajo interactiva, es decir, usuario y máquina se comunican en forma sucesiva.
 
-## Resumen
+## Resumen 😊
 Soy una persona comprometida, responsable y **QUE APRENDE RAPIDO**. Siempre preparado para afrontar y **DISEÑAR PROCESOS** de ingeniería de software requeridos para la optimización de las **OPERACIONES** de empresas de base  tecnológica.
 
 - Empresa de Transporte Masivo  (12 Años) 
@@ -20,7 +20,7 @@ Soy una persona comprometida, responsable y **QUE APRENDE RAPIDO**. Siempre prep
 - Getronics –
  Outsourcing: (3 Años)  
 
-## Habilidades
+## Habilidades ✋
 1. Experiencia en Transporte Masivo de Pasajeros, automatización de tareas de despacho y rutas.
 2. Programación y optimización de la plataforma de Turnos IVU.SUITE del SITM MIO
 3. Programación en Python para la automatización de RPA con Selenium para la verificación de licencias de conducir legales y multas de tránsito de autobuses
@@ -30,7 +30,7 @@ Soy una persona comprometida, responsable y **QUE APRENDE RAPIDO**. Siempre prep
 7. Analista de procesos y calidad.
 8. Amplia experiencia en soporte técnico, prestación de servicios en sitio y remoto.
 
-## Comandos
+## Comandos 💻
 Algunos ejemplos de los comandos en Terminal.
 
 | Comando | Descripción | Ejemplo |
