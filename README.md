@@ -4,7 +4,7 @@
 
 # Actualmente BootCamp Guillermo Rodas.
 ## Ejercicio Uno: Diferencia entre.
-## Terminal Application - Terminal Emulator
+## Terminal Application - Terminal Emulator ![descarga](https://user-images.githubusercontent.com/117833903/223738787-00aa8d1d-ae67-497d-8740-925138893cc1.png)
 
 **Un emulador de terminal o de consola** es un programa que simula el funcionamiento de un terminal de computadora en cualquier dispositivo de visualización. Un emulador de terminal dentro de una interfaz gráfica de usuario es comúnmente conocida como una ventana de terminal.
 
