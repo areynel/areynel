@@ -1,7 +1,14 @@
 # Reinel Aristizabal Erazo 👋
 ## Ingeniero informático 
 #### Con una amplia Experiencia en Programación de Turnos de Operadores de BUS.
-#### Actualmente BootCamp Guillermo Rodas.
+
+# Actualmente BootCamp Guillermo Rodas.
+##Ejercicio Uno: Diferencia entre.
+### Terminal Application - Terminal Emulator
+
+
+
+
 
 Soy una persona comprometida, responsable y **QUE APRENDE RAPIDO**. Siempre preparado para afrontar y **DISEÑAR PROCESOS** de ingeniería de software requeridos para la optimización de las **OPERACIONES** de empresas de base  tecnológica.
 
@@ -11,7 +18,7 @@ Soy una persona comprometida, responsable y **QUE APRENDE RAPIDO**. Siempre prep
  Outsourcing: (3 Años)  
 
 ## Habilidades
-1. Experiencia en Transportes Masivo de Pasajeros, automatización de tareas de despacho y rutas.
+1. Experiencia en Transporte Masivo de Pasajeros, automatización de tareas de despacho y rutas.
 2. Programación y optimización de la plataforma de Turnos IVU.SUITE del SITM MIO
 3. Programación en Python para la automatización de RPA con Selenium para la verificación de licencias de conducir legales y multas de tránsito de autobuses
 4. Excel VBA Macros para automatización RPA en la implementación de soluciones orientadas a Servicios de operaciones.
@@ -30,3 +37,5 @@ Algunos ejemplos de los comandos en Terminal.
 | CD | [Cambiar de directorio] | [CD C:/Test] |
 | LS | [Listar archivos de un directorio] | [C:/Test/LS] |
 | RM | [Nos permite eliminar un archivo dada una ruta.] | [RM TEST.DOCX] |
+
+
