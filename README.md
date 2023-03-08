@@ -3,10 +3,10 @@
 #### Con una amplia Experiencia en Programación de Turnos de Operadores de BUS.
 
 # Actualmente BootCamp Guillermo Rodas.
-###Ejercicio Uno: Diferencia entre.
+### Ejercicio Uno: Diferencia entre.
 ## Terminal Application - Terminal Emulator
 
-** Un emulador de terminal o de consola ** es un programa que simula el funcionamiento de un terminal de computadora en cualquier dispositivo de visualización. Un emulador de terminal dentro de una interfaz gráfica de usuario es comúnmente conocida como una ventana de terminal.
+**Un emulador de terminal o de consola** es un programa que simula el funcionamiento de un terminal de computadora en cualquier dispositivo de visualización. Un emulador de terminal dentro de una interfaz gráfica de usuario es comúnmente conocida como una ventana de terminal.
 
 Los emuladores de terminal incorporan características como control de procesos, redirección de entrada/salida, listado y lectura de ficheros, protección, comunicaciones y un lenguaje de órdenes para escribir secuencias de instrucciones por lotes o scripts. Uno de los lenguajes o intérpretes más conocidos, es Shell, el cual fue el intérprete usado en las primeras versiones de Unix y se convirtió en un estándar.
 
