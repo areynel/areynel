@@ -3,13 +3,16 @@
 #### Con una amplia Experiencia en Programación de Turnos de Operadores de BUS.
 
 # Actualmente BootCamp Guillermo Rodas.
-##Ejercicio Uno: Diferencia entre.
-### Terminal Application - Terminal Emulator
+###Ejercicio Uno: Diferencia entre.
+## Terminal Application - Terminal Emulator
 
+** Un emulador de terminal o de consola ** es un programa que simula el funcionamiento de un terminal de computadora en cualquier dispositivo de visualización. Un emulador de terminal dentro de una interfaz gráfica de usuario es comúnmente conocida como una ventana de terminal.
 
+Los emuladores de terminal incorporan características como control de procesos, redirección de entrada/salida, listado y lectura de ficheros, protección, comunicaciones y un lenguaje de órdenes para escribir secuencias de instrucciones por lotes o scripts. Uno de los lenguajes o intérpretes más conocidos, es Shell, el cual fue el intérprete usado en las primeras versiones de Unix y se convirtió en un estándar.
 
+Al ingresar las órdenes en el emulador, un intérprete de comandos analiza la secuencia de caracteres ingresada y, si la sintaxis de la orden es correcta, la ejecuta, recurriendo para ello a las funciones que ofrece el sistema operativo o el programa que representa, bien sea un gestor de banco de datos, una sesión de FTP, etc. La respuesta al usuario se representa en el monitor; es una forma de trabajo interactiva, es decir, usuario y máquina se comunican en forma sucesiva.
 
-
+## Resumen
 Soy una persona comprometida, responsable y **QUE APRENDE RAPIDO**. Siempre preparado para afrontar y **DISEÑAR PROCESOS** de ingeniería de software requeridos para la optimización de las **OPERACIONES** de empresas de base  tecnológica.
 
 - Empresa de Transporte Masivo  (12 Años) 
