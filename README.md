@@ -41,4 +41,8 @@ Algunos ejemplos de los comandos en Terminal.
 | LS | [Listar archivos de un directorio] | [C:/Test/LS] |
 | RM | [Nos permite eliminar un archivo dada una ruta.] | [RM TEST.DOCX] |
 
+## Comandos Alias 💻
+alias cl='clear'
+alias d='dir'
+
 
