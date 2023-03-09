@@ -2,8 +2,7 @@
 ## Ingeniero informático | Scrum Master | Product Owner | Aprendiz Desarrollador Full Stack.
 
 # Actualmente BootCamp Guillermo Rodas.
-## Ejercicio Uno: Diferencia entre.
-## Terminal Application - Terminal Emulator 💾 
+## Ejercicio Uno: Diferencia Terminal Application & Terminal Emulator 💾 
 
 **Un emulador de terminal o de consola** es un programa que simula el funcionamiento de un terminal de computadora en cualquier dispositivo de visualización. Un emulador de terminal dentro de una interfaz gráfica de usuario es comúnmente conocida como una ventana de terminal.
 
