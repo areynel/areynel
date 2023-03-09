@@ -1,6 +1,5 @@
 # Hola Soy, Reinel Aristizabal Erazo 👋
 ## Ingeniero informático | Scrum Master | Product Owner | Aprendiz Desarrollador Full Stack.
-## Con una amplia Experiencia en Programación de Turnos de Operadores de BUS.
 
 # Actualmente BootCamp Guillermo Rodas.
 ## Ejercicio Uno: Diferencia entre.
