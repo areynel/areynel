@@ -1,4 +1,4 @@
-# Hola Soy, Reinel Aristizabal Erazo 👋
+# Hola Soy, Reinel Aristizabal Erazo 👋  @raristizabale
 ## Ingeniero informático | Scrum Master | Product Owner | Aprendiz Desarrollador Full Stack.
 
 # Actualmente BootCamp Guillermo Rodas.
