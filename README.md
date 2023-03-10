@@ -1,6 +1,7 @@
 # Hola Soy, Reinel Aristizabal Erazo 👋
 ## Ingeniero informático | Scrum Master | Product Owner | Aprendiz Desarrollador Full Stack.
 ### Redes Sociales @raristizabale 
+Facebook Twitter LinkedIn YouTube DEV BMC
 
 # Actualmente BootCamp Guillermo Rodas.
 ## Ejercicio Uno: Diferencia Terminal Application & Terminal Emulator 💾 
