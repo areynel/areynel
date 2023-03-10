@@ -1,5 +1,7 @@
-# Hola Soy, Reinel Aristizabal Erazo 👋  @raristizabale
+# Hola Soy, Reinel Aristizabal Erazo 👋
 ## Ingeniero informático | Scrum Master | Product Owner | Aprendiz Desarrollador Full Stack.
+### Redes Sociales @raristizabale ![gorjeo (1)](https://user-images.githubusercontent.com/117833903/224322554-7a7775c9-776f-48f6-97fc-eaf2e5602a59.png)
+
 
 # Actualmente BootCamp Guillermo Rodas.
 ## Ejercicio Uno: Diferencia Terminal Application & Terminal Emulator 💾 
